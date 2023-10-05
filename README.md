@@ -2,7 +2,7 @@
 
 Bem-vindo ao Clone do BuzzFeed com Angular! Este projeto é uma recriação do famoso site de entretenimento BuzzFeed, construído com a estrutura Angular, seguindo como base de ensinamento do Bootcamp Santander Java Angular 2023 DIO.
 
-//![Screenshot do Clone do BuzzFeed com Angular](screenshot.png)
+
 
 ## Descrição
 

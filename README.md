@@ -1,27 +1,29 @@
-# ProjetoBuzzfeed
+# Clone do BuzzFeed com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Bem-vindo ao Clone do BuzzFeed com Angular! Este projeto é uma recriação do famoso site de entretenimento BuzzFeed, construído com a estrutura Angular, seguindo como base de ensinamento do Bootcamp Santander Java Angular 2023 DIO.
 
-## Development server
+![Screenshot do Clone do BuzzFeed com Angular](screenshot.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Descrição
 
-## Code scaffolding
+O Clone do BuzzFeed com Angular é uma plataforma que permite aos usuários:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Criar quizzes interessantes e engraçados.
+- Compartilhar artigos cativantes e informativos.
+- Explorar uma ampla variedade de conteúdo, incluindo listas, vídeos, notícias e muito mais.
+- Votar e comentar em postagens para expressar sua opinião.
+- Interagir com uma comunidade de entusiastas de entretenimento.
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Este projeto é construído utilizando as seguintes tecnologias:
 
-## Running unit tests
+- Angular 
+- TypeScript
+- HTML
+- CSS
+- Node.js (para a configuração do servidor de desenvolvimento)
+- Banco de Dados: (informações sobre o banco de dados, se aplicável)
+- Autenticação de Usuário: (métodos de autenticação, se aplicável)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

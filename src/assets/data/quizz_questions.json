@@ -1,55 +1,61 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Qual é o melhor?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Quem é considerado o maior artilheiro entre os times brasileiros?",
+      "options": [
+        {"id": 1, "name": "Romário", "alias": "a"},
+        {"id": 2, "name": "Pele", "alias": "b"},
+        {"id": 3, "name": "Ronaldo", "alias": "c"},
+        {"id": 4, "name": "Ademir da Guia", "alias": "d"}
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Qual time conquistou mais títulos da Copa Libertadores?",
+      "options": [
+        {"id": 5, "name": "São Paulo", "alias": "a"},
+        {"id": 6, "name": "Santos", "alias": "b"},
+        {"id": 7, "name": "Corinthians", "alias": "c"},
+        {"id": 8, "name": "Palmeiras", "alias": "d"}
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Qual dos times se destacou mais em finais de campeonatos brasileiros?",
+      "options": [
+        {"id": 9, "name": "Corinthians", "alias": "a"},
+        {"id": 10, "name": "Palmeiras", "alias": "b"},
+        {"id": 11, "name": "Santos", "alias": "c"},
+        {"id": 12, "name": "São Paulo", "alias": "d"}
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "Qual é o time com a maior torcida do Brasil?",
+      "options": [
+        {"id": 13, "name": "Corinthians", "alias": "a"},
+        {"id": 14, "name": "Palmeiras", "alias": "b"},
+        {"id": 15, "name": "Santos", "alias": "c"},
+        {"id": 16, "name": "São Paulo", "alias": "d"}
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Qual time brasileiro ganhou mais títulos mundiais?",
+      "options": [
+        {"id": 17, "name": "Corinthians", "alias": "a"},
+        {"id": 18, "name": "Palmeiras", "alias": "b"},
+        {"id": 19, "name": "Santos", "alias": "c"},
+        {"id": 20, "name": "São Paulo", "alias": "d"}
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "a": "Mas não esqueça: PALMEIRAS NÃO TEM MUNDIAL!",
+    "b": "Mas não esqueça: PALMEIRAS NÃO TEM MUNDIAL!",
+    "c": "Mas não esqueça: PALMEIRAS NÃO TEM MUNDIAL!",
+    "d": " Mas não esqueça: PALMEIRAS NÃO TEM MUNDIAL!"
   }
 }
